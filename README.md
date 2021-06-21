@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshadshaik9&label=Profile%20views&color=0e75b6&style=flat" alt="arshadshaik9" /> </p>
 
-- 🌱 I’m currently learning **Django python UI technology etc.**
+- 🌱 I’m currently learning **Django flask python UI technology etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arshadshaik9/portfolio.git](https://github.com/arshadshaik9/portfolio.git)
 
